@@ -15,6 +15,7 @@
 ### About me
 - I'm currently studying Software Engineering at the University of Hradec Králové.
 - I'm interested in full-stack development and building scalable software.
+- At the moment employed at Foxconn CZ as an QA Engineer
 
 ---
 
